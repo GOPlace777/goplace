@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" width="520" height="180">
+  <title>GO PLACE 가로 로고 (어두운 바탕)</title>
+  <rect width="520" height="180" rx="28" fill="#111418"/>
+  <g transform="translate(30 20)">
+    <path d="M60 6 C32 6 12 27 12 54 C12 88 60 132 60 132 C60 132 108 88 108 54 C108 27 88 6 60 6 Z" fill="#C6FF3D"/>
+    <polyline points="40,66 60,46 80,66" fill="none" stroke="#111418" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="40,86 60,66 80,86" fill="none" stroke="#111418" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+  </g>
+  <text x="170" y="84" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="64" fill="#FFFFFF" letter-spacing="-1">GO</text>
+  <text x="170" y="146" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="64" fill="#FFFFFF" letter-spacing="-1">PLACE</text>
+</svg>
