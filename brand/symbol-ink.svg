@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 140" width="120" height="140">
+  <title>GO PLACE 심볼 (블랙, 밝은 바탕용)</title>
+  <path d="M60 6 C32 6 12 27 12 54 C12 88 60 132 60 132 C60 132 108 88 108 54 C108 27 88 6 60 6 Z" fill="#111418"/>
+  <polyline points="40,66 60,46 80,66" fill="none" stroke="#C6FF3D" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="40,86 60,66 80,86" fill="none" stroke="#C6FF3D" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+</svg>
