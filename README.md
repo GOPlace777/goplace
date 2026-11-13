@@ -8,3 +8,4 @@
 
 ## 제품
 - **체력특급 by GO PLACE**: 장병 체력검정 준비 앱 (공익·무료) — 저장소 `unit-fitness-app`
+- **GO LIFT by GO PLACE**: 웨이트·파워리프팅 기록·자동 진행 앱 (개인용 프로토타입 준비 중) — 기획 `docs/products/go-lift.md`
