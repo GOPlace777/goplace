@@ -50,6 +50,9 @@
 | Codex와 같은 저장소에서 일하는 법 | https://github.com/GOPlace777/goplace/blob/main/docs/ai-team.md#같은-저장소에서-codex와-함께-일하기 |
 | Claude GitHub 앱 설치 (동생이 자기 저장소에) | https://github.com/apps/claude/installations/select_target |
 | GitHub 초대 수락 (대표) | https://github.com/notifications |
+| SHORTCUT 저장소 (동생, 비공개) | https://github.com/crccos10-cloud/shortcut |
+| SHORTCUT 이슈 (할 일 판) | https://github.com/crccos10-cloud/shortcut/issues |
+| 협업 순서 (COLLAB.md, 동생 Merge 후 열림) | https://github.com/crccos10-cloud/shortcut/blob/main/COLLAB.md |
 
 ## 일거리 남기기 (주간 회의 때 처리)
 제목 앞에 `[AI팀]`을 붙여 이슈 만들기:

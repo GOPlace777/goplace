@@ -132,6 +132,19 @@ AI끼리 직접 대화시키지 않고 **GitHub 저장소 하나를 같이 쓴�
 역할 분담 추천 (가설): 동생 + Codex = 기능 개발, 대표 + Claude = 고객 조사·코드 리뷰·테스트·보안 점검.
 두 AI가 같은 기능을 함께 만들면 충돌 정리에 시간이 더 든다.
 
+### GO PLACE와 SHORTCUT 작업 분리 (2026-11-22)
+
+규칙이 섞이면 Claude가 회사 원칙과 동생 앱 규칙을 헷갈린다. 그래서 **세션과 문서를 나눈다.**
+
+| | GO PLACE 세션 | SHORTCUT 세션 |
+|---|---|---|
+| 고를 저장소 | `GOPlace777/goplace`, `unit-fitness-app`, `go-lift` | `crccos10-cloud/shortcut` **하나만** |
+| Claude가 따르는 규칙 | goplace `CLAUDE.md` | shortcut `CLAUDE.md` + `QUALITY_WORKFLOW.md` + `COLLAB.md` |
+| 기록하는 곳 | goplace `docs/` | shortcut 이슈·PR |
+
+- 한 세션에서 두 가지 일을 섞지 않는다. 다른 쪽 일이 생기면 그쪽 세션을 연다.
+- 동생과 일하는 자세한 순서는 shortcut 저장소 `COLLAB.md`에 있다. goplace에는 결정 기록(`docs/status.md`)만 남긴다.
+
 ---
 
 ## 6. 수요 예측 — 단계별로
