@@ -43,6 +43,14 @@
 | 브랜드 | https://github.com/GOPlace777/goplace/blob/main/docs/brand.md |
 | GO LIFT 기획 | https://github.com/GOPlace777/goplace/blob/main/docs/products/go-lift.md |
 
+## 광고 영상 도구 (동생과 함께, 검토 중)
+| 무엇 | 링크 |
+|---|---|
+| GO PLACE 숏츠 제작실 (데모, 대표만 열람) | https://claude.ai/artifact/6wjoYxcW5puEX983qoZMzN |
+| Codex와 같은 저장소에서 일하는 법 | https://github.com/GOPlace777/goplace/blob/main/docs/ai-team.md#같은-저장소에서-codex와-함께-일하기 |
+| Claude GitHub 앱 설치 (동생이 자기 저장소에) | https://github.com/apps/claude/installations/select_target |
+| GitHub 초대 수락 (대표) | https://github.com/notifications |
+
 ## 일거리 남기기 (주간 회의 때 처리)
 제목 앞에 `[AI팀]`을 붙여 이슈 만들기:
 | 저장소 | 새 이슈 |
