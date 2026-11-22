@@ -183,6 +183,22 @@ AI끼리 직접 대화시키지 않고 **GitHub 저장소 하나를 같이 쓴�
 
 한계(사실): Claude Code는 claude.ai 프로젝트에 직접 접근하지 못한다. 그래서 GitHub가 다리 역할을 한다.
 
+### 프로젝트 컨텍스트 GitHub 동기화 (대표가 하는 일, 30초)
+
+언제: 주간 회의 PR이나 결정 기록 PR을 **Merge한 뒤** (동기화는 `main` 브랜치를 읽는다. Merge 전에 누르면 예전 내용 그대로)
+
+처음 한 번만 (연결이 아직 없을 때):
+1. 휴대폰 브라우저(크롬·사파리)로 https://claude.ai/projects 열기 → "GO PLACE 본부"
+2. 프로젝트 지식(컨텍스트) 칸의 **+** → **GitHub**
+3. `GOPlace777/goplace` 고르기 → `CLAUDE.md`, `docs/status.md`, `docs/links.md`, `docs/ai-team.md`, `docs/brand.md` 체크 → 추가
+
+매번:
+1. 같은 화면에서 프로젝트 지식 칸의 **GitHub(goplace) 항목**을 누르기
+2. **동기화(Sync now)** 또는 ↻ 모양 버튼 누르기
+3. 확인: 프로젝트 새 채팅에서 "상황판 마지막 갱신 날짜?" → `docs/status.md`의 날짜와 같으면 끝
+
+막히면: Claude 앱에 이 메뉴가 안 보이면 브라우저로 열기. 버튼 이름이 다르면 캡처를 Claude Code에 보내기 (화면 이름은 바뀔 수 있다 — 2026-11-22 기준 안내).
+
 ---
 
 ## 9. 국부론으로 점검한 팀 운영 (2026-11-21)
