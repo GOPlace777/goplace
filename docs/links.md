@@ -40,6 +40,7 @@
 |---|---|
 | 회사 원칙 (CLAUDE.md) | https://github.com/GOPlace777/goplace/blob/main/CLAUDE.md |
 | AI 팀 운영법 | https://github.com/GOPlace777/goplace/blob/main/docs/ai-team.md |
+| AI 잘 쓰는 법 (습관 7가지, 요청 틀) | https://github.com/GOPlace777/goplace/blob/main/docs/ai-playbook.md |
 | 브랜드 | https://github.com/GOPlace777/goplace/blob/main/docs/brand.md |
 | GO LIFT 기획 | https://github.com/GOPlace777/goplace/blob/main/docs/products/go-lift.md |
 
