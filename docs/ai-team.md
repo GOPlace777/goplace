@@ -39,6 +39,7 @@ AI는 대화가 끝나면 잊는다. 그래서 회사의 기억은 문서에 둔
 | 제품별 규칙 | 각 저장소 `CLAUDE.md` |
 | 진행 상황·남은 일 | 각 저장소 `PROJECT_STATE.md` |
 | 이 팀 운영법 | goplace `docs/ai-team.md` (이 문서) |
+| 생각하는 순서 | goplace `docs/thinking-system.md` |
 
 ### ② 역할 카드 — `.claude/agents/`
 각 AI 직원의 업무 설명서. **다른 AI(ChatGPT·제미나이)에게도** 카드 본문을 복사해 붙여 넣으면 같은 역할을 시킬 수 있다.
@@ -190,7 +191,7 @@ AI끼리 직접 대화시키지 않고 **GitHub 저장소 하나를 같이 쓴�
 처음 한 번만 (연결이 아직 없을 때):
 1. 휴대폰 브라우저(크롬·사파리)로 https://claude.ai/projects 열기 → "GO PLACE 본부"
 2. 프로젝트 지식(컨텍스트) 칸의 **+** → **GitHub**
-3. `GOPlace777/goplace` 고르기 → `CLAUDE.md`, `docs/status.md`, `docs/links.md`, `docs/ai-team.md`, `docs/brand.md` 체크 → 추가
+3. `GOPlace777/goplace` 고르기 → `CLAUDE.md`, `docs/status.md`, `docs/links.md`, `docs/ai-team.md`, `docs/brand.md`, `docs/thinking-system.md`, `docs/strategy.md` 체크 → 추가
 
 매번:
 1. 같은 화면에서 프로젝트 지식 칸의 **GitHub(goplace) 항목**을 누르기

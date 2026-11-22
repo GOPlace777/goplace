@@ -5,6 +5,7 @@
 - `CLAUDE.md`: 사업·제품 개발 원칙
 - `docs/brand.md`: 브랜드 가이드 (로고, 색상, 사용 규칙)
 - `docs/strategy.md`: 성장 전략 초안 (몸의 진실을 재는 회사)
+- `docs/thinking-system.md`: AI가 생각하는 순서 (사고 시스템)
 - `brand/`: 로고 파일 (SVG, PNG)
 
 ## 제품
